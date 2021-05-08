@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SignUpCompose</string>
+    <string name="welcome">Welcome</string>
+    <string name="dummy_text">Sed ut perspiciatis unde omnis iste natus error sit.</string>
+</resources>
